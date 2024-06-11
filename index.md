@@ -2,13 +2,12 @@
 layout: default
 ---
 
-Information Technology Skills Project by 
-- **Elena Busà**, 
-- **Elena Cinti**, 
-- **Gaia Emiliani**, 
-- **Jessica Geminiani**, 
-- **Ginevra Lazzeri**, 
-- **Chiara Tartaglia**. 
+This is our website informing about the Information Technology Skills project. The team: 
+- **Elisa Sadun**, 
+- **Alice Pierassa**, 
+- **Claudia Caterino**, 
+- **Francesca Melgari**, 
+- **Kevin Spirk**, 
 
 The goal of the project has been creating new RDF triples regarding the Clothing Description Ontology to enrich the ArCo Knowledge Graph. 
 As part of the methodology, we used:
